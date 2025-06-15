@@ -67,3 +67,7 @@ Assignment developed as part of coursework in the Natural Language Processing co
 ## Notes
 
 This solver works entirely offline and does not require any external API calls. Ensure that all wordlist files are present in the same directory when running the program.
+
+## Questions & Queries
+
+If you have any questions, thoughts, or comments on this project, please contact me: ioannis.thomopoulos@studbocconi.it
